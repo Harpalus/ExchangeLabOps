@@ -11,7 +11,7 @@ The primary program delivered by the Exchange Lab is a year long residency for a
 
 We support public servants to understand the value of building high performing teams that build a product and continue to improve it. These teams use Agile methods to quickly and effectively build services that meet people's needs. We know, because the talk directly to the people who use the products!
 
-* <a href="/ExchangeLabOps/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf">Learn about the full Journey of a Team.</a>
+* <a href="https://github.com/bcgov/ExchangeLabOps/blob/master/docs/One-Pager_Journey-of-an-Exchange-Lab-Team.pdf">Learn about the full Journey of a Team.</a>
 
 # Expected Timeline
 
